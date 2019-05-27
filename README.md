@@ -9,4 +9,4 @@ The analyses and visualizations include:
 - Mouse mortality throughout the trial
 - Variability between cohorts in the trial
 
-Visualizations are produced with matplotlib and data cleaning/analysis is accomplished with Pandas and numpy.  An additional repo was created to provide a more interactive web-based experience using the visuals and discussion from this project.  See that [here](https://bman511.github.io/DataStory/).
+Visualizations are produced with matplotlib and data cleaning/analysis is accomplished with Pandas and numpy.  An additional repo was created to provide a more interactive web-based experience using the visuals and discussion from this project.  See githubpages collection [here](https://bman511.github.io/DataStory/) and the repo [here](https://github.com/bman511/DataStory).
