@@ -1,0 +1,12 @@
+# Pymaceuticals
+
+This project utilizes Python to analyze mock pre-clinical (mouse trial) data for several fictional cancer drugs.
+
+The analyses and visualizations include:
+
+- Tumor proliferation over time
+- Average tumor size over time
+- Mouse mortality throughout the trial
+- Variability between cohorts in the trial
+
+Visualizations are produced with matplotlib and data cleaning/analysis is accomplished with Pandas and numpy.
